@@ -20,7 +20,7 @@ body{
 #conteudo H1{
     text-align: center;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 10px 10px 0px 0px;
     height: 45px;
     padding-top: 15px;
     font-family: 'Fira Sans', sans-serif;
