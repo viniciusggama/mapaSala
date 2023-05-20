@@ -16,6 +16,10 @@ body{
     background-color:  #235bf4;
     border-radius: 10px;
 }
+#icon_voltar{
+    transform: translateY(-50px);
+  width: 40px;
+}
 
 #conteudo H1{
     text-align: center;
@@ -54,7 +58,8 @@ footer{
     text-align: center;
 }
 
-footer img{
+#logo{
     width: 200px;
     height: 155px;
 }
+
